@@ -2,8 +2,15 @@ this is for testing stash
 
 
 for second commit
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 
 without doing commit
 =======
 >>>>>>> test
+=======
+
+
+
+updating after merge
+>>>>>>> Stashed changes
